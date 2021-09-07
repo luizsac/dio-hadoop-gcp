@@ -1,0 +1,1 @@
+gcloud dataproc jobs wait job-dio-desafio-dataproc --project desafio-dataproc-gcp-luiz --region us-central1
